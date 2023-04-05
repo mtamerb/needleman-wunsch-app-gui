@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="java-gui-app:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_gui_app_jar</output-path>
+    <root id="archive" name="java-gui-app.jar">
+      <element id="module-output" name="java-gui-app" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/miglayout-swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/miglayout-core.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
